@@ -1,0 +1,59 @@
+/*Version Mobile*/
+body{
+    font-family: "PT Sans Narrow";
+    background-color: #F2F1F4;
+
+}
+.img-logo{
+    margin-left: 80px;
+    
+
+}
+nav{
+    background-color: #30A894;
+    padding: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+li{
+    list-style-type: none;
+    margin-left: -20px;
+    font-size: 80px;
+    color: white;
+    margin-bottom: 20px;
+   text-align: center; 
+   line-height: 60px;
+   font-weight: 60px;
+
+}
+p{
+    line-height: 30px;
+    font-size: 20px;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+header nav a:hover {
+	background-color: #38B5A0;
+}
+  
+hr{
+background-color: #49B2B4;
+border: 2px solid #49B2B4;
+  
+}
+h1{
+    color: #49B2B4;
+}
+h3{
+    text-align: center;
+    font-size: 20px;
+}
+.img-mobile{
+    width:350px
+}
